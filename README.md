@@ -1,2 +1,2 @@
-# Diabetes_regression_model
-Diabetes Regression model
+# ML_models
+just for practice
